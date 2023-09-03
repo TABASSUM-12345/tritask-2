@@ -154,8 +154,8 @@ flex-direction:column;
     width:400px;
     height:420px;
     border:8px solid black;
-    top:2290px;
+    top:2420px;
     
     left:440px;
-    position:relative;
+    position:absolute;
 }
