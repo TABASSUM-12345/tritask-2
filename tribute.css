@@ -149,13 +149,3 @@ flex-direction:column;
     position:relative;
     font-family: 'Inter', sans-serif;
 }
-
-.mother img{
-    width:400px;
-    height:420px;
-    border:8px solid black;
-    top:2420px;
-    
-    left:440px;
-    position:absolute;
-}
